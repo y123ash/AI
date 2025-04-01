@@ -37,3 +37,15 @@ D:\C_OVERLOAD\AGENT_TURACOZ\
 ├── requirements.txt             # Python Dependencies
 └── README.md                    # Project Documentation
 WHICH MAY PROBABLY CHANGE OVER COURSE OF TIME.
+================================================================================================================
+files which are currently uploaded
+agents/           ← your agent logic
+api/              ← if used
+services/         ← backend helpers
+tests/            ← unit tests
+utils/            ← helper functions
+knowledge_base/   ← if you added anything manually
+main.py           ← entry point
+MISC.py           ← extra scripts you made
+requirements.txt  ← dependencies
+README.md         ← optional (I'll help generate)
