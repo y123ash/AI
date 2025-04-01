@@ -48,3 +48,5 @@ main.py           ← entry point
 MISC.py           ← extra scripts you made
 requirements.txt  ← dependencies
 README.md         ← optional (I'll help generate)
+==================================================================================================================
+aiohappyeyeballs==2.6.1
